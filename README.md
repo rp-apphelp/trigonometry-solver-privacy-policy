@@ -1,2 +1,2 @@
 # trigonometry-solver-privacy-policy
-Privacy policy for the trigonometry solver application on Google Play Store.
+Privacy policy for the Trigonometry Solver application on Google Play Store.
